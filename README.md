@@ -532,7 +532,7 @@ npm test
 ## 📞 联系方式
 
 - **GitHub Issues**：[提交问题](https://github.com/Miku-cy/mcp-hub/issues)
-- **Email**：your-email@example.com
+- **Email**：a2280103250@qq.com
 - **社区论坛**：[OpenClaw社区](https://clawd.org.cn/forum/)
 
 ---
